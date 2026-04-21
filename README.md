@@ -1,0 +1,1 @@
+My First CSS_LESSONS contains my first basic attempt at using css to design my own website. I simply added the image of a car and a video of french language lessons which is something I am currently working on reality. Enjoy!
